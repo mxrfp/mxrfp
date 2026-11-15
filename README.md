@@ -1,11 +1,3 @@
-<!-- Header Banner -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,100:3d59a1&height=200&section=header&text=Hi,%20I'm%20mxrfp&fontSize=44&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=15%20y/o%20Hobbyist%20Coder%20%7C%20C%2B%2B%2C%20Python%20%26%20Random%20Projects&descAlignY=60&descSize=18)
-
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=15+years+old%2C+coding+in+my+free+time;Experimenting+with+C%2B%2B%2C+Python+and+language+runtimes;Reinventing+the+wheel+just+to+see+how+it+works" alt="Typing SVG" />
-</p>
-
 ---
 
 ### About Me
