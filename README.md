@@ -1,47 +1,60 @@
+<!-- Banner -->
+<p align="center">
+  <img src="./banner.jpg" alt="Banner" width="100%" />
+</p>
+
+<!-- Typing Animation -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=FFFFFF&center=true&vCenter=true&width=580&lines=15+y%2Fo%2C+programming+as+a+hobby;Language+runtimes%2C+systems%2C+and+tooling;Side+projects+and+experiments" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=111111&center=true&vCenter=true&width=580&lines=15+y%2Fo%2C+programming+as+a+hobby;Language+runtimes%2C+systems%2C+and+tooling;Side+projects+and+experiments" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=FFFFFF&center=true&vCenter=true&width=580&lines=15+y%2Fo%2C+programming+as+a+hobby;Language+runtimes%2C+systems%2C+and+tooling;Side+projects+and+experiments" alt="Typing SVG" />
+  </picture>
+</p>
+
 ---
 
-### About Me
+### About
 
-- **Who I am:** 15 years old, coding for fun after school
-- **Currently messing around with:** building a [dynamic type system in C++](https://github.com/mxrfp/Dynamic-Type-System-in-C-) from scratch
-- **What I enjoy:** low-level internals, memory management, language design, and writing quick Python scripts for games
-- **Approach:** breaking things, learning why they broke, and figuring out how to make them faster
+- 15 y/o, programming as a hobby
+- Interested in language design, memory management, and functional programming
+- Building tools, experiments, and side projects in my free time
 
 ---
 
-### Languages & Tools
+### Languages
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,py,git,github,vscode,cmake,linux" alt="Languages and Tools" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,haskell,go&theme=dark" alt="Python, C++, Haskell, Go" />
   </a>
 </p>
 
 ---
 
-### Stuff I've Built
+### Projects
 
-| Project | What it is | Made with |
+| Project | Description | Language |
 | :--- | :--- | :--- |
-| **[Dynamic-Type-System-in-C-](https://github.com/mxrfp/Dynamic-Type-System-in-C-)** | Experimental C++ runtime for a dynamically-typed language, built around double dispatch and custom memory pools (`std::pmr`). | `C++` |
-| **[donutSMP-craft-price-founder](https://github.com/mxrfp/donutSMP-craft-price-founder)** | Python tool that scrapes live auction prices and breaks down full crafting costs for Donut SMP. | `Python` |
+| **[Dynamic-Type-System-in-C-](https://github.com/mxrfp/Dynamic-Type-System-in-C-)** | C++ runtime for a dynamically-typed language with double dispatch and custom memory pools (`std::pmr`). | `C++` |
+| **[donutSMP-craft-price-founder](https://github.com/mxrfp/donutSMP-craft-price-founder)** | Python script that scrapes live auction prices and calculates crafting material costs for Donut SMP. | `Python` |
 
 ---
 
-### GitHub Stats
+### Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=mxrfp&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="175" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mxrfp&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="175" />
+  <img src="https://github-stats-extended.vercel.app/api?username=mxrfp&show_icons=true&bg_color=0a0a0a&title_color=ffffff&text_color=d4d4d4&icon_color=ffffff&border_color=2e2e2e" alt="GitHub Stats" height="175" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mxrfp&layout=compact&bg_color=0a0a0a&title_color=ffffff&text_color=d4d4d4&border_color=2e2e2e" alt="Top Languages" height="175" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mxrfp&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=mxrfp&background=0a0a0a&border=2e2e2e&stroke=2e2e2e&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=d4d4d4&sideLabels=d4d4d4&dates=a3a3a3" alt="GitHub Streak" />
 </p>
 
 ---
 
-### Contribution Activity
+### Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mxrfp/mxrfp/output/github-snake-dark.svg" />
@@ -51,3 +64,13 @@
 
 ---
 
+### Contact
+
+<p align="center">
+  <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-0a0a0a?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+</p>
+
+<!-- Footer Banner -->
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:2e2e2e&height=120&section=footer)
