@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="./bnnr.png" alt="banner" width="100%" />
+  <img src="./assets/bnnr.png" alt="banner" width="100%" />
 </p>
 
 ### About
@@ -14,13 +14,13 @@
 ### Languages
 
 <p align="center">
-  <img src="./python_ascii.png" alt="Python" height="60" />
+  <img src="./assets/python_ascii.png" alt="Python" height="60" />
   &nbsp;&nbsp;
-  <img src="./c++_ascii.png" alt="C++" height="60" />
+  <img src="./assets/c++_ascii.png" alt="C++" height="60" />
   &nbsp;&nbsp;
-  <img src="./haskell_ascii.png" alt="Haskell" height="54" />
+  <img src="./assets/haskell_ascii.png" alt="Haskell" height="54" />
   &nbsp;&nbsp;
-  <img src="./go_ascii.png" alt="Go" height="70" />
+  <img src="./assets/go_ascii.png" alt="Go" height="70" />
 </p>
 
 ---
