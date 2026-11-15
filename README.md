@@ -14,13 +14,13 @@
 ### Languages
 
 <p align="center">
-  <img src="./python_ascii.png" alt="Python" height="64" />
+  <img src="./python_ascii.png" alt="Python" height="128" />
   &nbsp;&nbsp;
-  <img src="./c++_ascii.png" alt="C++" height="64" />
+  <img src="./c++_ascii.png" alt="C++" height="128" />
   &nbsp;&nbsp;
-  <img src="./haskell_ascii.png" alt="Haskell" height="64" />
+  <img src="./haskell_ascii.png" alt="Haskell" height="128" />
   &nbsp;&nbsp;
-  <img src="./go_ascii.png" alt="Go" height="64" />
+  <img src="./go_ascii.png" alt="Go" height="128" />
 </p>
 
 ---
