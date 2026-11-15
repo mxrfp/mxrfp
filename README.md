@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="./fef.jpg" alt="banner" width="100%" />
+  <img src="./bnnr.png" alt="banner" width="100%" />
 </p>
 
 <!-- Monospace Typing Animation -->
