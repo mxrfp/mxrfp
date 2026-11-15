@@ -14,9 +14,13 @@
 ### Languages
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,haskell,go&theme=dark" alt="Python, C++, Haskell, Go" />
-  </a>
+  <img src="./python_ascii.png" alt="Python" height="64" />
+  &nbsp;&nbsp;
+  <img src="./c++_ascii.png" alt="C++" height="64" />
+  &nbsp;&nbsp;
+  <img src="./haskell_ascii.png" alt="Haskell" height="64" />
+  &nbsp;&nbsp;
+  <img src="./go_ascii.png" alt="Go" height="64" />
 </p>
 
 ---
