@@ -20,7 +20,7 @@
   &nbsp;&nbsp;
   <img src="./haskell_ascii.png" alt="Haskell" height="54" />
   &nbsp;&nbsp;
-  <img src="./go_ascii.png" alt="Go" height="60" />
+  <img src="./go_ascii.png" alt="Go" height="70" />
 </p>
 
 ---
