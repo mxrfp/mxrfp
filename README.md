@@ -1,8 +1,8 @@
 <!-- Banner -->
-<p align="center">
+<!--<p align="center">
   <img src="./banner.jpg" alt="Banner" width="70%" />
 </p>
-
+-->
 ---
 
 ### About
