@@ -3,48 +3,45 @@
   <img src="./fef.jpg" alt="banner" width="100%" />
 </p>
 
-<!-- Terminal Prompt Typing -->
+<!-- Monospace Typing Animation -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=580&lines=mxrfp%40github%3A~%24+whoami;15+y%2Fo+%2F%2F+programming+as+a+hobby;python+%7C+cpp+%7C+haskell+%7C+go" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=111111&center=true&vCenter=true&width=580&lines=mxrfp%40github%3A~%24+whoami;15+y%2Fo+%2F%2F+programming+as+a+hobby;python+%7C+cpp+%7C+haskell+%7C+go" />
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=580&lines=mxrfp%40github%3A~%24+whoami;15+y%2Fo+%2F%2F+programming+as+a+hobby;python+%7C+cpp+%7C+haskell+%7C+go" alt="Terminal Prompt" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=580&lines=15+y%2Fo%2C+programming+as+a+hobby;Language+runtimes%2C+systems%2C+and+tooling;Side+projects+and+experiments" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=111111&center=true&vCenter=true&width=580&lines=15+y%2Fo%2C+programming+as+a+hobby;Language+runtimes%2C+systems%2C+and+tooling;Side+projects+and+experiments" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=580&lines=15+y%2Fo%2C+programming+as+a+hobby;Language+runtimes%2C+systems%2C+and+tooling;Side+projects+and+experiments" alt="Typing SVG" />
   </picture>
 </p>
 
 ---
 
-### `$ cat about.txt`
+### About
 
-```
-user       mxrfp
-age        15
-status     programming as a hobby
-focus      language design, memory management, functional programming, cli tools
-```
+- 15 y/o, programming as a hobby
+- Interested in language design, memory management, and functional programming
+- Building tools, experiments, and side projects in my free time
 
 ---
 
-### `$ ls ./languages`
+### Languages
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,haskell,go&theme=dark" alt="python, cpp, haskell, go" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,haskell,go&theme=dark" alt="Python, C++, Haskell, Go" />
   </a>
 </p>
 
 ---
 
-### `$ ls -la ./projects`
+### Projects
 
-| permissions | repository | description | lang |
-| :--- | :--- | :--- | :--- |
-| `drwxr-xr-x` | **[Dynamic-Type-System-in-C-](https://github.com/mxrfp/Dynamic-Type-System-in-C-)** | C++ runtime for a dynamically-typed language with double dispatch and custom memory pools (`std::pmr`). | `cpp` |
-| `drwxr-xr-x` | **[donutSMP-craft-price-founder](https://github.com/mxrfp/donutSMP-craft-price-founder)** | Python script that scrapes live auction prices and calculates crafting material costs for Donut SMP. | `python` |
+| Project | Description | Language |
+| :--- | :--- | :--- |
+| **[Dynamic-Type-System-in-C-](https://github.com/mxrfp/Dynamic-Type-System-in-C-)** | C++ runtime for a dynamically-typed language with double dispatch and custom memory pools (`std::pmr`). | `C++` |
+| **[donutSMP-craft-price-founder](https://github.com/mxrfp/donutSMP-craft-price-founder)** | Python script that scrapes live auction prices and calculates crafting material costs for Donut SMP. | `Python` |
 
 ---
 
-### `$ fetch --stats`
+### Stats
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=mxrfp&show_icons=true&bg_color=0a0a0a&title_color=ffffff&text_color=d4d4d4&icon_color=ffffff&border_color=2e2e2e&border_radius=0" alt="GitHub Stats" height="175" />
@@ -57,16 +54,10 @@ focus      language design, memory management, functional programming, cli tools
 
 ---
 
-### `$ git log --graph`
+### Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mxrfp/mxrfp/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mxrfp/mxrfp/output/github-snake.svg" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mxrfp/mxrfp/output/github-snake.svg" />
 </picture>
-
----
-
-```
-mxrfp@github:~$ exit 0
-```
