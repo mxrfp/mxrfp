@@ -49,8 +49,10 @@
 
 ### Contributions
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mxrfp/mxrfp/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mxrfp/mxrfp/output/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mxrfp/mxrfp/output/github-snake.svg" />
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mxrfp/mxrfp/output/contributions-ascii-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mxrfp/mxrfp/output/contributions-ascii-light.svg" />
+    <img alt="ASCII contribution graph" src="https://raw.githubusercontent.com/mxrfp/mxrfp/output/contributions-ascii-dark.svg" />
+  </picture>
+</p>
