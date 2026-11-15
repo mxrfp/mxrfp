@@ -59,13 +59,3 @@
 
 ---
 
-### Find Me Here
-
-<p align="center">
-  <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-</p>
-
-<!-- Footer Banner -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,100:3d59a1&height=120&section=footer)
