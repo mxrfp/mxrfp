@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="./fef.jpg.jpg" alt="Banner" width="70%" />
+  <img src="./fef.jpg" alt="Banner" width="70%" />
 </p>
 
 ---
