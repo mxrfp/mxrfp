@@ -7,7 +7,7 @@
 
 - 15 y/o, programming as a hobby
 - Interested in language design, memory management, and functional programming
-- Building tools, experiments, and side projects in my free time
+- Building tools, experiments, and side projects 
 
 ---
 
