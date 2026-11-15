@@ -3,15 +3,6 @@
   <img src="./banner.jpg" alt="Banner" width="100%" />
 </p>
 
-<!-- Typing Animation -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=FFFFFF&center=true&vCenter=true&width=580&lines=15+y%2Fo%2C+programming+as+a+hobby;Language+runtimes%2C+systems%2C+and+tooling;Side+projects+and+experiments" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=111111&center=true&vCenter=true&width=580&lines=15+y%2Fo%2C+programming+as+a+hobby;Language+runtimes%2C+systems%2C+and+tooling;Side+projects+and+experiments" />
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=FFFFFF&center=true&vCenter=true&width=580&lines=15+y%2Fo%2C+programming+as+a+hobby;Language+runtimes%2C+systems%2C+and+tooling;Side+projects+and+experiments" alt="Typing SVG" />
-  </picture>
-</p>
-
 ---
 
 ### About
