@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="148" viewBox="0 0 400 148">
+  <rect x="0.5" y="0.5" width="399" height="147" fill="#0a0a0a" stroke="#2e2e2e" stroke-width="1" />
+  <text x="20" y="32" fill="#ffffff" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13" font-weight="700">&gt; Text-in-Image-Hider</text>
+  <text x="20" y="58" fill="#d4d4d4" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.5">A Python tool to hide and decode text within</text>
+  <text x="20" y="78" fill="#d4d4d4" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.5">images using Least Significant Bit...</text>
+  <line x1="20" y1="108" x2="380" y2="108" stroke="#2e2e2e" stroke-width="1" />
+  <text x="20" y="130" fill="#ffffff" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.5">[Python]</text>
+  <text x="380" y="130" text-anchor="end" fill="#737373" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.5">stars: 1 | forks: 0</text>
+</svg>
