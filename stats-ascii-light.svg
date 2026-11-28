@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="268" viewBox="0 0 820 268">
+  <rect x="0.5" y="0.5" width="819" height="267" fill="#ffffff" stroke="#d4d4d4" stroke-width="1" />
+  <text x="24" y="30" fill="#111111" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" font-weight="700">mxrfp // stats</text>
+  <text x="796" y="30" text-anchor="end" fill="#737373" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11">public profile</text>
+  <line x1="0" y1="48" x2="820" y2="48" stroke="#d4d4d4" stroke-width="1" />
+  <line x1="380" y1="48" x2="380" y2="198" stroke="#d4d4d4" stroke-width="1" />
+  <line x1="0" y1="198" x2="820" y2="198" stroke="#d4d4d4" stroke-width="1" />
+  <line x1="273" y1="198" x2="273" y2="268" stroke="#d4d4d4" stroke-width="1" />
+  <line x1="547" y1="198" x2="547" y2="268" stroke="#d4d4d4" stroke-width="1" />
+  <text x="24" y="78" fill="#404040" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12">stars earned</text>
+  <text x="356" y="78" text-anchor="end" fill="#111111" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" font-weight="700">8</text>
+  <text x="24" y="104" fill="#404040" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12">commits (1y)</text>
+  <text x="356" y="104" text-anchor="end" fill="#111111" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" font-weight="700">151</text>
+  <text x="24" y="130" fill="#404040" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12">pull requests</text>
+  <text x="356" y="130" text-anchor="end" fill="#111111" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" font-weight="700">9</text>
+  <text x="24" y="156" fill="#404040" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12">issues</text>
+  <text x="356" y="156" text-anchor="end" fill="#111111" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" font-weight="700">1</text>
+  <text x="24" y="182" fill="#404040" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12">contributed to</text>
+  <text x="356" y="182" text-anchor="end" fill="#111111" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" font-weight="700">5</text>
+  <text x="404" y="78" fill="#111111" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12">Python</text>
+  <text x="508" y="78" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12"><tspan fill="#737373">[</tspan><tspan fill="#111111">###########</tspan><tspan fill="#d4d4d4">.......</tspan><tspan fill="#737373">]</tspan></text>
+  <text x="796" y="78" text-anchor="end" fill="#404040" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12">62.5%</text>
+  <text x="404" y="104" fill="#111111" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12">C++</text>
+  <text x="508" y="104" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12"><tspan fill="#737373">[</tspan><tspan fill="#111111">#######</tspan><tspan fill="#d4d4d4">...........</tspan><tspan fill="#737373">]</tspan></text>
+  <text x="796" y="104" text-anchor="end" fill="#404040" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12">37.1%</text>
+  <text x="404" y="130" fill="#111111" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12">C</text>
+  <text x="508" y="130" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12"><tspan fill="#737373">[</tspan><tspan fill="#111111"></tspan><tspan fill="#d4d4d4">..................</tspan><tspan fill="#737373">]</tspan></text>
+  <text x="796" y="130" text-anchor="end" fill="#404040" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12">0.4%</text>
+  <text x="136" y="229" text-anchor="middle" fill="#111111" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="18" font-weight="700">173</text>
+  <text x="136" y="249" text-anchor="middle" fill="#737373" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11">total contributions</text>
+  <text x="410" y="229" text-anchor="middle" fill="#111111" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="18" font-weight="700">0d</text>
+  <text x="410" y="249" text-anchor="middle" fill="#737373" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11">current streak</text>
+  <text x="684" y="229" text-anchor="middle" fill="#111111" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="18" font-weight="700">5d</text>
+  <text x="684" y="249" text-anchor="middle" fill="#737373" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11">longest streak</text>
+</svg>
